@@ -1,0 +1,18 @@
+export const Colors = {
+    feedItemBg:'#f3f3f3',
+    navy:'#000080',
+    white:'#ffffff',
+    mimeGrey: '#5a6978',
+    darkBlue: '#283A4E',
+    darkGrey: '#092D47',
+    primaryGreen: '#C7D449',
+    frozen:'#d8e8e6',
+    buttonGreen: '#4ED738',
+    reviewGreen: '#8AD915',
+    declineRed: '#F95F62',
+    starFilled: '#C5D252',
+    gray: '#888',
+    facebookBlue: '#0A88CC',
+    twitterBlue: '#00A6FF',
+    lightGray: '#F4F5F8',
+}
